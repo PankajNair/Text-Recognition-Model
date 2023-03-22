@@ -1,4 +1,4 @@
-# Text-Recognition-Model
+# Text Recognition Model
 ## Problem Statement
 The task of text recognition from images is a challenging problem in the field of computer vision. Despite the recent advancements, accurately recognizing text from images still remains a difficult task due to various factors such as image quality, font style, and lighting conditions. The problem is further compounded when the text is in handwritten form, where variations in writing styles and individual idiosyncrasies make it even more challenging. Therefore, the development of an efficient and accurate text recognition model is essential for many real-world applications, such as automatic license plate recognition, document digitization, and text translation. The primary goal of this project is to develop a robust text recognition model that can accurately recognize text from images under varying conditions, including different font styles, text sizes, and backgrounds, to improve the efficiency and accuracy of text recognition systems.
 ## Data Information
